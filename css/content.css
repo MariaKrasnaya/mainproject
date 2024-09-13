@@ -1,0 +1,13 @@
+#myhead{
+
+    font-size: 36px;
+    }
+    /* if we had id, we use # */
+    
+    .mytext{
+    }
+    
+    a{
+        text-decoration: none;
+        color: rgb(255, 140, 0);
+    }
